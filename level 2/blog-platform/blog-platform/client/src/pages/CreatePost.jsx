@@ -1,0 +1,1 @@
+// Page to create a new blog post

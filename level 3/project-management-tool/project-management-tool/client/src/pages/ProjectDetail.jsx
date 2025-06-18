@@ -1,0 +1,1 @@
+// Detailed project view with tasks
